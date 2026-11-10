@@ -4,8 +4,8 @@ Windows x64 桌面工具盒：网络、硬件、文件、办公、程序开发�
 
 | 下载 | 国内 Gitee | GitHub 备用 |
 | --- | --- | --- |
-| 安装包（推荐） | [下载 EXE](https://gitee.com/infinite-possible/toolbox-releases/raw/master/packages/Toolbox-v0.20.1-setup.exe) | [下载 EXE](https://github.com/GuanShanXu/Toolbox-Releases/releases/download/v0.20.1/Toolbox-v0.20.1-setup.exe) |
-| 完整便携包 | [下载 ZIP](https://gitee.com/infinite-possible/toolbox-releases/raw/master/packages/Toolbox-v0.20.1-x64-full.zip) | [下载 ZIP](https://github.com/GuanShanXu/Toolbox-Releases/releases/download/v0.20.1/Toolbox-v0.20.1-x64-full.zip) |
+| 安装包（推荐） | [下载 EXE](https://gitee.com/infinite-possible/toolbox-releases/releases/download/v0.20.1/Toolbox-v0.20.1-setup.exe) | [下载 EXE](https://github.com/GuanShanXu/Toolbox-Releases/releases/download/v0.20.1/Toolbox-v0.20.1-setup.exe) |
+| 完整便携包 | [下载 ZIP](https://gitee.com/infinite-possible/toolbox-releases/releases/download/v0.20.1/Toolbox-v0.20.1-x64-full.zip) | [下载 ZIP](https://github.com/GuanShanXu/Toolbox-Releases/releases/download/v0.20.1/Toolbox-v0.20.1-x64-full.zip) |
 
 ## 功能更新
 
